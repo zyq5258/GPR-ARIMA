@@ -16,6 +16,8 @@ scikit_learn == 0.24.2；
 tensorflow == 2.4.0.
 
 # Data availability
-The datasets used in this paper is included in a code file called data.csv
+The datasets used in this paper is included in a code file called data.csv. You can also access the data at the following link.
+
+Url：https://pan.baidu.com/s/12sbkqpyb6k8cBTvaHtvw9Q. Access code：gpr7.
 # Contact
 For any questions, please submit them to Github Issues.
